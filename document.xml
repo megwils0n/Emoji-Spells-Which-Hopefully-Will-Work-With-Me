@@ -10,9 +10,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.223Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.099Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.223Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.099Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S1 S2 s3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S77 S78 S79 S81"}</cw:cwrcAttributes>
@@ -27,16 +27,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_4187"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_4512"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.223Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.100Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.223Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.100Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78"}</cw:cwrcAttributes>
@@ -51,16 +51,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_4189"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_4514"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.224Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.102Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.224Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.102Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S1 S2 S3 S79"}</cw:cwrcAttributes>
@@ -75,16 +75,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_4191"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_4516"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.225Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.102Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.225Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.102Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P1"}</cw:cwrcAttributes>
@@ -99,16 +99,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_4193"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_4518"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.226Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.103Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.226Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.103Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P1"}</cw:cwrcAttributes>
@@ -123,16 +123,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_4195"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_4520"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.229Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.105Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.229Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.105Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P2"}</cw:cwrcAttributes>
@@ -147,16 +147,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_4197"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_4522"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.231Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.106Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.231Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.106Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P4"}</cw:cwrcAttributes>
@@ -171,16 +171,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_4199"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_4524"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.232Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.108Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.232Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.108Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S1 S2 S3 S4 S5 S7 S8 S9 S10 S11 S12 S13 S15 S16 S18 S22 S23 S25 S26 S29 S30 S31 S32 S33 S34 S35 S37 S38 S39 S40 S41 S43 S44 S46 S48 S50 S52 S53 S54 S55 S56 S57 S59 S63 S64 S65 S66 S67 S68 S69 S70 S71"}</cw:cwrcAttributes>
@@ -195,16 +195,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_4201"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_4526"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.233Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.109Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.233Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.109Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S1 S2 S3 S79"}</cw:cwrcAttributes>
@@ -219,16 +219,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_4203"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_4528"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.235Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.110Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.235Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.110Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78"}</cw:cwrcAttributes>
@@ -243,16 +243,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_4205"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_4530"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.237Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.112Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.237Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.112Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82"}</cw:cwrcAttributes>
@@ -267,16 +267,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_4207"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_4532"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.238Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.115Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.238Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.115Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S1 S2 S3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S 77 S78 S79 S81"}</cw:cwrcAttributes>
@@ -291,16 +291,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_4209"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_4534"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.240Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.116Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:35:51.240Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-26T12:42:59.116Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82"}</cw:cwrcAttributes>
@@ -315,10 +315,11 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_4211"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_4536"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 </rdf:RDF>
+
 
 
 
@@ -463,30 +464,19 @@
             <sourceDesc>
                 <p>Information about the source</p>
             </sourceDesc>
-        </fileDesc><encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-03-26T12:34:01.799Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
+        </fileDesc><encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-03-26T12:41:09.534Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
     <text>
     <body>
-    <!--   The type attribute in the &lt;div&gt; tags determines how DToC will read that section. The general DToC document structure includes multiple chapers followed by an index. However, you can add forward, afterwords, etc. by chaging the &lt;div&gt; type attribute   -->
+    <!--    The type attribute in the &lt;div&gt; tags determines how DToC will read that section. The general DToC document structure includes multiple chapers followed by an index. However, you can add forward, afterwords, etc. by chaging the &lt;div&gt; type attribute    -->
         <div type="chapter">
-            <head>
-                <bibl>
-                    <title>Emoji Spells and Visuality</title></bibl></head>
-           <p>To bring strength and energy for the winter months:</p><p xml:id="S1">✨❄️🌲☕️🐻🌙🐻☕️🌲❄️✨</p><p>To find prosperity, peace, and safety in the autumn season:</p><p xml:id="S2">✨🕯💝☕️🍀💚🍁☀️🍁💚🍀☕️💝🕯✨</p><p>To attract good vibes for autumn:</p><p xml:id="S3">✨☕️🍂🔮🍂☕️✨</p><p>To make the most of autumn:</p><p xml:id="S4">🍁🍂☔🙆🎃🎇👻🍎☔🍂🍁</p><p>To will the coming months to be full of growth, productivity, new doors opening, and opportunities:</p><p xml:id="S5">⬆️✏️🎓🏆🌻🏅✨🥂⬆️</p><p>To let go of the pain of the past year and beginning anew:</p><p xml:id="S6">😢🎭👎_ _ _ _🔚🔜_ _ _ _👍🎆😃</p>
+            <head><bibl><title>Visuality and Iconic Modality in Emoji Spells</title></bibl></head>
+           <p>To bring strength and energy for the winter months:</p><p xml:id="S6"/>
         </div><div type="chapter">
-            <head>
-                <bibl>
-                    <title>Emoji Spells and Iconic Modality</title></bibl></head>
-           <p>To bring strength and energy for the winter months:</p><p xml:id="S1">✨❄️🌲☕️🐻🌙🐻☕️🌲❄️✨</p><p>To find prosperity, peace, and safety in the autumn season:</p><p xml:id="S2">✨🕯💝☕️🍀💚🍁☀️🍁💚🍀☕️💝🕯✨</p><p>To attract good vibes for autumn:</p><p xml:id="S3">✨☕️🍂🔮🍂☕️✨</p><p>To make the most of autumn:</p><p xml:id="S4">🍁🍂☔🙆🎃🎇👻🍎☔🍂🍁</p><p>To will the coming months to be full of growth, productivity, new doors opening, and opportunities:</p><p xml:id="S5">⬆️✏️🎓🏆🌻🏅✨🥂⬆️</p><p>To let go of the pain of the past year and beginning anew:</p><p xml:id="S6">😢🎭👎_ _ _ _🔚🔜_ _ _ _👍🎆😃</p>
+            <head>Image as Corrupttion (or Power)</head>
+           <p>To bring strength and energy for the winter months:</p></div><div type="chapter"><p xml:id="S6"/>
         </div><div type="chapter">
-            <head>
-                <bibl>
-                    <title>Emoji Spells and Meaning</title></bibl></head>
-           <p>To bring strength and energy for the winter months:</p><p xml:id="S1">✨❄️🌲☕️🐻🌙🐻☕️🌲❄️✨</p><p>To find prosperity, peace, and safety in the autumn season:</p><p xml:id="S2">✨🕯💝☕️🍀💚🍁☀️🍁💚🍀☕️💝🕯✨</p><p>To attract good vibes for autumn:</p><p xml:id="S3">✨☕️🍂🔮🍂☕️✨</p><p>To make the most of autumn:</p><p xml:id="S4">🍁🍂☔🙆🎃🎇👻🍎☔🍂🍁</p><p>To will the coming months to be full of growth, productivity, new doors opening, and opportunities:</p><p xml:id="S5">⬆️✏️🎓🏆🌻🏅✨🥂⬆️</p><p>To let go of the pain of the past year and beginning anew:</p><p xml:id="S6">😢🎭👎_ _ _ _🔚🔜_ _ _ _👍🎆😃</p>
-        </div><div type="chapter">
-            <head>
-                <bibl>
-                    <title>Emoji Spells for Seasonal Use</title></bibl></head>
-           <p>To bring strength and energy for the winter months:</p><p xml:id="S1">✨❄️🌲☕️🐻🌙🐻☕️🌲❄️✨</p><p>To find prosperity, peace, and safety in the autumn season:</p><p xml:id="S2">✨🕯💝☕️🍀💚🍁☀️🍁💚🍀☕️💝🕯✨</p><p>To attract good vibes for autumn:</p><p xml:id="S3">✨☕️🍂🔮🍂☕️✨</p><p>To make the most of autumn:</p><p xml:id="S4">🍁🍂☔🙆🎃🎇👻🍎☔🍂🍁</p><p>To will the coming months to be full of growth, productivity, new doors opening, and opportunities:</p><p xml:id="S5">⬆️✏️🎓🏆🌻🏅✨🥂⬆️</p><p>To let go of the pain of the past year and beginning anew:</p><p xml:id="S6">😢🎭👎_ _ _ _🔚🔜_ _ _ _👍🎆😃</p>
+            <head><bibl><title>Witchcraft as Corruption (or Power)</title></bibl></head>
+           <p>To bring strength and energy for the winter months:</p><p xml:id="S6"/>
         </div><div type="chapter">
             <head>
                 <bibl>
@@ -530,18 +520,18 @@
                     <title>Emoji Spells for Love &amp; Friendship</title></bibl></head>
            <p xml:id="P1">To make social interactions easier:</p><p xml:id="S80">😏👍💁👄🎤🍻✨👌😏</p><p>To promote happiness and fruitful relationships, romantic, platonic, or otherwise:</p><p xml:id="S81">🔮🎀⭐️🌸⭐️🎀🔮</p><p>To make meaningful friendships easily:</p><p xml:id="S82">😄💞🍻🔜👩👨👏💞😄</p>
         </div>
-        <!--     -->
+        <!--       -->
         <div type="index">
                 <list>
-                        <item xml:id="I1"><ref annotationId="ent_4187" target="S1 S2 s3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S77 S78 S79 S81">Circle of Protection</ref></item>
-                        <item xml:id="I2"><ref annotationId="ent_4189" target="S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78">Circle of Protection: Crystal Ball</ref></item>
-                        <item xml:id="I3"><ref annotationId="ent_4191" target="S1 S2 S3 S79">Circle of Protection: Glitter</ref></item>  
+                        <item xml:id="I1"><ref annotationId="ent_4512" target="S1 S2 s3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S77 S78 S79 S81">Circle of Protection</ref></item>
+                        <item xml:id="I2"><ref annotationId="ent_4514" target="S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78">Circle of Protection: Crystal Ball</ref></item>
+                        <item xml:id="I3"><ref annotationId="ent_4516" target="S1 S2 S3 S79">Circle of Protection: Glitter</ref></item>  
                         
-                        <!--   To create a subsection of terms   -->
-                        <item xml:id="I4"><ref annotationId="ent_4193" target="P1">term</ref> 	<list>		<item><ref annotationId="ent_4195" target="P1">subterm</ref></item>		<item><ref annotationId="ent_4197" target="P2">subterm</ref></item>		<item><ref annotationId="ent_4199" target="P4">subterm</ref></item>	</list>
+                        <!--    To create a subsection of terms    -->
+                        <item xml:id="I4"><ref annotationId="ent_4518" target="P1">term</ref> 	<list>		<item><ref annotationId="ent_4520" target="P1">subterm</ref></item>		<item><ref annotationId="ent_4522" target="P2">subterm</ref></item>		<item><ref annotationId="ent_4524" target="P4">subterm</ref></item>	</list>
                         </item>  
                         
-                        <!--   To create index cross references   --> 	 	<item xml:id="S1">	 <ref annotationId="ent_4201" target="S1 S2 S3 S4 S5 S7 S8 S9 S10 S11 S12 S13 S15 S16 S18 S22 S23 S25 S26 S29 S30 S31 S32 S33 S34 S35 S37 S38 S39 S40 S41 S43 S44 S46 S48 S50 S52 S53 S54 S55 S56 S57 S59 S63 S64 S65 S66 S67 S68 S69 S70 S71">Circle of Protection</ref> 	<list>	<head>	 <hi rend="italic">See also</hi> 	</head>	<item><ref annotationId="ent_4203" target="S1 S2 S3 S79">Sparkles</ref></item>	<item><ref annotationId="ent_4205" target="S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78">Crystal Ball</ref></item><item><ref annotationId="ent_4207" target="S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82">Smileys</ref></item>	<item><ref annotationId="ent_4209" target="S1 S2 S3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S 77 S78 S79 S81">Full Symmetry</ref></item><item><ref annotationId="ent_4211" target="S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82">Smileys</ref></item></list>	</item>	</list>
+                        <!--    To create index cross references    --> 	 	<item xml:id="S1">	 <ref annotationId="ent_4526" target="S1 S2 S3 S4 S5 S7 S8 S9 S10 S11 S12 S13 S15 S16 S18 S22 S23 S25 S26 S29 S30 S31 S32 S33 S34 S35 S37 S38 S39 S40 S41 S43 S44 S46 S48 S50 S52 S53 S54 S55 S56 S57 S59 S63 S64 S65 S66 S67 S68 S69 S70 S71">Circle of Protection</ref> 	<list>	<head>	 <hi rend="italic">See also</hi> 	</head>	<item><ref annotationId="ent_4528" target="S1 S2 S3 S79">Sparkles</ref></item>	<item><ref annotationId="ent_4530" target="S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78">Crystal Ball</ref></item><item><ref annotationId="ent_4532" target="S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82">Smileys</ref></item>	<item><ref annotationId="ent_4534" target="S1 S2 S3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S 77 S78 S79 S81">Full Symmetry</ref></item><item><ref annotationId="ent_4536" target="S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82">Smileys</ref></item></list>	</item>	</list>
            </div>
          </body>
     </text>
