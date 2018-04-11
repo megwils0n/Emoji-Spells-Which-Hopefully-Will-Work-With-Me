@@ -6,319 +6,320 @@
 	<cw:mode>0</cw:mode>
 	<cw:allowOverlap>false</cw:allowOverlap>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/f31a7a86-03c1-4ea5-a2e1-4e67e0806518">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/0651f908-9435-4617-89b2-69469ef7d12a"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/link/344f866e-75ac-4954-9dcb-42da10d35200"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/3cc0e596-8b47-4149-8bd5-e8576104470f"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.619Z</oa:annotatedAt>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.744Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.619Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.744Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S1 S2 s3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S77 S78 S79 S81"}</cw:cwrcAttributes>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/link/344f866e-75ac-4954-9dcb-42da10d35200">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
 	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/0651f908-9435-4617-89b2-69469ef7d12a">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/d7077c12-1b15-418a-b606-6b71dbddd2b7"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/630ac6fd-0d6d-41fd-8fc2-2f0268c32077"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/630ac6fd-0d6d-41fd-8fc2-2f0268c32077">
-	<rdf:value>xpointer(//ref[@annotationId="ent_15"])</rdf:value>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:value>xpointer(//ref[@annotationId="ent_40"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/ccd26f58-9e8a-4f99-bc12-918f2b912b07">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/f034822b-9574-4a4e-8361-3e048d4fc601"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/link/9acf973d-6a99-4743-9e81-4e4ad7b5bd86"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/7a495c73-54e6-487a-bf00-fcd99a7bf9e3"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.621Z</oa:annotatedAt>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.745Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.621Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.745Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78"}</cw:cwrcAttributes>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/link/9acf973d-6a99-4743-9e81-4e4ad7b5bd86">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
 	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/f034822b-9574-4a4e-8361-3e048d4fc601">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/61cc7358-cf04-4cc1-a89b-c129f98dd89e"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/8d6576bf-fa44-4dd7-9846-86b6b925f15b"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/8d6576bf-fa44-4dd7-9846-86b6b925f15b">
-	<rdf:value>xpointer(//ref[@annotationId="ent_17"])</rdf:value>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:value>xpointer(//ref[@annotationId="ent_42"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/d49f0de6-73bf-4138-b56b-1789067f2f41">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/539ee2f3-ff9a-4144-ba4e-1d573068b217"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/link/731bcf31-2aad-4301-a377-984a3e411e12"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/8059d7ef-8660-4634-844f-3b1113d16283"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.625Z</oa:annotatedAt>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.747Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.625Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.747Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S1 S2 S3 S79"}</cw:cwrcAttributes>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/link/731bcf31-2aad-4301-a377-984a3e411e12">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
 	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/539ee2f3-ff9a-4144-ba4e-1d573068b217">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/6c9d775e-3adb-4de0-b005-62f726ca05d5"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/afdd4df9-96a6-42b2-9065-b3fd9e30d667"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/afdd4df9-96a6-42b2-9065-b3fd9e30d667">
-	<rdf:value>xpointer(//ref[@annotationId="ent_19"])</rdf:value>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:value>xpointer(//ref[@annotationId="ent_44"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/2ad6a56c-4f01-4899-870b-ca4b517d94a4">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/52e3fce7-03e1-4b85-be05-293aef948ffe"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/link/e5db2b7f-819a-4e65-9c04-c87949a91c4f"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/9a04d50d-fff3-4be6-93d1-f265e1a810bf"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.626Z</oa:annotatedAt>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.747Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.626Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.747Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P1"}</cw:cwrcAttributes>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/link/e5db2b7f-819a-4e65-9c04-c87949a91c4f">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
 	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/52e3fce7-03e1-4b85-be05-293aef948ffe">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/0846ff51-de3b-436b-8dfb-96e0201e078b"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/7fd7a1b9-cca4-43af-97aa-88d3720f63bb"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/7fd7a1b9-cca4-43af-97aa-88d3720f63bb">
-	<rdf:value>xpointer(//ref[@annotationId="ent_21"])</rdf:value>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:value>xpointer(//ref[@annotationId="ent_46"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/0d395166-c9bb-47f6-8e8e-a5afb149f3af">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/cfcbd2e6-a51b-4248-a1e6-1f1e2df30bda"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/link/12acb24d-83b6-4a65-b9e7-b1a55cea13c7"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/ff8d899d-6ae5-4e9b-82b0-a696a19a9ed9"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.627Z</oa:annotatedAt>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.750Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.627Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.750Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P1"}</cw:cwrcAttributes>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/link/12acb24d-83b6-4a65-b9e7-b1a55cea13c7">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
 	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/cfcbd2e6-a51b-4248-a1e6-1f1e2df30bda">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/819a9e5a-5175-45fb-9d35-f96e5f5bf843"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/9f718749-309e-4ec5-a27d-089fd9e725b8"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/9f718749-309e-4ec5-a27d-089fd9e725b8">
-	<rdf:value>xpointer(//ref[@annotationId="ent_23"])</rdf:value>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:value>xpointer(//ref[@annotationId="ent_48"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/6cb70994-cf9e-4047-a985-b6e89a3c2d15">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/cc673341-a49c-42f2-af10-a52c4f284b18"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/link/0e588841-d2e7-496d-874e-a5d571435209"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/ae8160fe-f214-4bbd-be15-783514ddd2e6"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.629Z</oa:annotatedAt>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.752Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.629Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.752Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P2"}</cw:cwrcAttributes>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/link/0e588841-d2e7-496d-874e-a5d571435209">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
 	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/cc673341-a49c-42f2-af10-a52c4f284b18">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/c7c95717-da71-4fa0-874a-0e684d52b113"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/db707f02-5983-4eda-a498-9073a6b6899d"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/db707f02-5983-4eda-a498-9073a6b6899d">
-	<rdf:value>xpointer(//ref[@annotationId="ent_25"])</rdf:value>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:value>xpointer(//ref[@annotationId="ent_50"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/83f04d99-07a4-47ca-92c9-6b55f975843d">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/d8f1ce69-8fe3-4371-8592-bca621e04088"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/link/454ec09d-8576-40ac-8365-a7af019494f0"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/2dbf9e48-78aa-4111-9eac-5cde3742f7a7"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.630Z</oa:annotatedAt>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.753Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.630Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.753Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P4"}</cw:cwrcAttributes>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/link/454ec09d-8576-40ac-8365-a7af019494f0">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
 	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/d8f1ce69-8fe3-4371-8592-bca621e04088">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/7808b286-8022-4df4-9b16-11eef48c2206"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/2d431176-5ca5-4499-ab85-0d98ac2be40a"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/2d431176-5ca5-4499-ab85-0d98ac2be40a">
-	<rdf:value>xpointer(//ref[@annotationId="ent_27"])</rdf:value>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:value>xpointer(//ref[@annotationId="ent_52"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/2cf916ac-6436-4b97-95e6-a6b6c3aabcf7">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/3f20e46f-9146-4a6f-995c-761ce303a821"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/link/4f1ea9fd-4d28-4503-983b-8a6d0b878b7d"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/8c83064d-ef25-4555-8eaa-f27ccb99d7cb"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.631Z</oa:annotatedAt>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.755Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.631Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.755Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S1 S2 S3 S4 S5 S7 S8 S9 S10 S11 S12 S13 S15 S16 S18 S22 S23 S25 S26 S29 S30 S31 S32 S33 S34 S35 S37 S38 S39 S40 S41 S43 S44 S46 S48 S50 S52 S53 S54 S55 S56 S57 S59 S63 S64 S65 S66 S67 S68 S69 S70 S71"}</cw:cwrcAttributes>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/link/4f1ea9fd-4d28-4503-983b-8a6d0b878b7d">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
 	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/3f20e46f-9146-4a6f-995c-761ce303a821">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/93ce5c5a-e043-45b3-8d2a-53368ecbd361"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/252d5608-c7c8-4845-91da-2e7656fa4e18"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/252d5608-c7c8-4845-91da-2e7656fa4e18">
-	<rdf:value>xpointer(//ref[@annotationId="ent_29"])</rdf:value>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:value>xpointer(//ref[@annotationId="ent_54"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/fdca325e-91ac-4e88-bf1d-2b41584c87b5">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/14890dc4-328a-426a-8d17-c4df48c3c549"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/link/33571a03-f13e-4a02-9040-a9e8697b1796"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/2068ae6b-7f45-46c4-8b8c-1ac317e9541a"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.633Z</oa:annotatedAt>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.757Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.633Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.757Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S1 S2 S3 S79"}</cw:cwrcAttributes>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/link/33571a03-f13e-4a02-9040-a9e8697b1796">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
 	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/14890dc4-328a-426a-8d17-c4df48c3c549">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/a46f2554-88be-4281-8ab4-e78ad9038992"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/b0b9e61f-6bbe-47e1-9851-330f4121b46f"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/b0b9e61f-6bbe-47e1-9851-330f4121b46f">
-	<rdf:value>xpointer(//ref[@annotationId="ent_31"])</rdf:value>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:value>xpointer(//ref[@annotationId="ent_56"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/17383a17-612a-48d6-a0e2-ea8b4f847e8b">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/af6aead6-fbd8-4f68-be3d-6ef9ba50c940"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/link/29c26831-dc1c-440b-9a87-9a38fad845c6"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/489c0542-b0cf-464d-b05c-3b0d66e0c1ad"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.634Z</oa:annotatedAt>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.761Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.634Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.761Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78"}</cw:cwrcAttributes>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/link/29c26831-dc1c-440b-9a87-9a38fad845c6">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
 	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/af6aead6-fbd8-4f68-be3d-6ef9ba50c940">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/87e43d1a-0fee-4711-872c-c1f940e37c54"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/e247a883-ea94-4630-9e01-d77427f43884"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/e247a883-ea94-4630-9e01-d77427f43884">
-	<rdf:value>xpointer(//ref[@annotationId="ent_33"])</rdf:value>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:value>xpointer(//ref[@annotationId="ent_58"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/0773edcf-c35d-47f4-9ca5-29578dfe2438">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/da393ee1-4a62-42d4-bf25-d8a58dd61733"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/link/081365ea-7f8f-4193-a682-3806688b2549"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/7fdbf720-f194-4aed-b26a-3687a6ef1863"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.635Z</oa:annotatedAt>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.762Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.635Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.762Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82"}</cw:cwrcAttributes>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/link/081365ea-7f8f-4193-a682-3806688b2549">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
 	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/da393ee1-4a62-42d4-bf25-d8a58dd61733">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/e71a15aa-b5c7-4406-b6ce-12fc4493985e"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/770ad9c5-db0f-4f54-9b64-951388c25992"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/770ad9c5-db0f-4f54-9b64-951388c25992">
-	<rdf:value>xpointer(//ref[@annotationId="ent_35"])</rdf:value>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:value>xpointer(//ref[@annotationId="ent_60"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/6492f5e5-034d-4e64-8cec-fadd01c47172">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/1a566be1-28be-4a9d-b386-ac5435bfd5dc"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/link/da725899-8d99-4539-96f8-e072dc88755d"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/bea35276-ca38-464a-ba97-fbcb4dd62ec7"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.637Z</oa:annotatedAt>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.764Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.637Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.764Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S1 S2 S3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S 77 S78 S79 S81"}</cw:cwrcAttributes>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/link/da725899-8d99-4539-96f8-e072dc88755d">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
 	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/1a566be1-28be-4a9d-b386-ac5435bfd5dc">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/6f422d41-62a5-4858-88a1-5b8fa42f3318"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/d6b79f4a-acae-40e8-98d9-16dc744f3ec1"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/d6b79f4a-acae-40e8-98d9-16dc744f3ec1">
-	<rdf:value>xpointer(//ref[@annotationId="ent_37"])</rdf:value>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:value>xpointer(//ref[@annotationId="ent_62"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/fa8a7bd1-8660-4c93-9eb3-4d02f17cb695">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/df1bd7f1-cac2-4d4e-8c2a-6075f79fcef2"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/link/7bfc848a-94e2-43ee-b8f3-565cda4e3c29"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/d89c7c86-a57b-49e2-8ef6-6fcf7ee18cc0"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.638Z</oa:annotatedAt>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.765Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-03T05:41:58.638Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-04-11T02:03:49.765Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82"}</cw:cwrcAttributes>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/link/7bfc848a-94e2-43ee-b8f3-565cda4e3c29">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
 	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/df1bd7f1-cac2-4d4e-8c2a-6075f79fcef2">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/bd6f0c17-481a-4e28-969e-c32fa1de372c"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/a9481419-1b0b-4423-a3d0-19c87d2b34dc"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/a9481419-1b0b-4423-a3d0-19c87d2b34dc">
-	<rdf:value>xpointer(//ref[@annotationId="ent_39"])</rdf:value>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:value>xpointer(//ref[@annotationId="ent_64"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 </rdf:RDF>
+
 
 
 
@@ -485,7 +486,7 @@
             <sourceDesc>
                 <p>Information about the source</p>
             </sourceDesc>
-        </fileDesc><encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-04-03T05:40:01.239Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
+        </fileDesc><encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-04-11T02:01:42.337Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
     <text>
     <body>
     <!--  The type attribute in the &lt;div&gt; tags determines how DToC will read that section. The general DToC document structure includes multiple chapers followed by an index. However, you can add forward, afterwords, etc. by chaging the &lt;div&gt; type attribute  -->
@@ -500,7 +501,7 @@
            <p>Berger &amp; ideological use of symbols as a capitalist agenda: "The art of any period tends to serve the ideological interests of the ruling class, [...] a way of seeing the world, which was ultimately determined by new attitudes property and exchange, found its visual expression in the oil painting, and could not have found it in any other visual art form." (86),</p><p>Danesi: "Visuality was both a powerful expressive mode for promoting imperialism and a similarly powerful means for resisting it through reverse appropriation" (125). </p><p>Davis: "Inventive attempts to reappropriate mass culture called "poaching"; pilfering symbols, practices, and commodities on the fly. The poacher performs creative magic, a critical rebellion of the grassroots imagination against the social framework of consensus reality." (178-179)</p><p>Once we accept that capitalism is communicative and communications are capitalist, where might we find openings for critique, opportunities for resistance and possibilities to break free?</p>
         </div><div type="chapter">
             <head><bibl><title>Witchcraft, Tech &amp; Corruption (or, Power)</title></bibl></head>
-           <p>Sollée: "The witch is viewed as a symbol of female power -- but is equally a symbol of female persecution." (13) </p><p>Kamensky: "To a society that was deeply concerned with governing the verbal exchanges that constituted and enforced social hierarchy, the witches speech revealed the full destructive potential of the female voice. The witch's cursing: the ultimate ravages of women's words left unchecked." (27)</p><p xml:id="S6">Davis: "an amazingly high percentage of this willfully anachronistic [Pagan] bunch drew their pay-checks from technical fields and the computer industry" (180)</p>
+           <p>Witchcraft is one of the few spiritual schools, that, even in its most primitive stages, has always been associated with women. For today’s young, outspoken witches, the online world is integral to their practice.</p><p>Sollée: "The witch is viewed as a symbol of female power -- but is equally a symbol of female persecution." (13) </p><p>Kamensky: "To a society that was deeply concerned with governing the verbal exchanges that constituted and enforced social hierarchy, the witches speech revealed the full destructive potential of the female voice. The witch's cursing: the ultimate ravages of women's words left unchecked." (27)</p><p xml:id="S6">Davis: "an amazingly high percentage of this willfully anachronistic [Pagan] bunch drew their pay-checks from technical fields and the computer industry" (180)</p>
         </div><div type="chapter">
             <head><bibl><title>Debates Between the Analog &amp; Digital Witch</title></bibl></head>
            <p>Sollée: "Towers explains how to use the variety of colorful ideograms [emoji] at our disposal in magical ways. She outlines how to call in prosperity, shield yourself from negative influences, or unbind yourself from a lover after a breakup using only your desires and your smartphone." (139)</p><p>Davis: "Many pagans distrust the cyberspace obsessions of techno-pagans, fearing that it will reproduce the same disembodied tendencies of modern civilization that Pagandom actively resists." (185)</p>
@@ -550,15 +551,15 @@
         <!--   -->
         <div type="index">
                 <list>
-                        <item xml:id="I1"><ref annotationId="ent_15" target="S1 S2 s3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S77 S78 S79 S81">Circle of Protection</ref></item>
-                        <item xml:id="I2"><ref annotationId="ent_17" target="S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78">Circle of Protection: Crystal Ball</ref></item>
-                        <item xml:id="I3"><ref annotationId="ent_19" target="S1 S2 S3 S79">Circle of Protection: Glitter</ref></item>  
+                        <item xml:id="I1"><ref annotationId="ent_40" target="S1 S2 s3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S77 S78 S79 S81">Circle of Protection</ref></item>
+                        <item xml:id="I2"><ref annotationId="ent_42" target="S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78">Circle of Protection: Crystal Ball</ref></item>
+                        <item xml:id="I3"><ref annotationId="ent_44" target="S1 S2 S3 S79">Circle of Protection: Glitter</ref></item>  
                         
                         <!--  To create a subsection of terms  -->
-                        <item xml:id="I4"><ref annotationId="ent_21" target="P1">term</ref> 	<list>		<item><ref annotationId="ent_23" target="P1">subterm</ref></item>		<item><ref annotationId="ent_25" target="P2">subterm</ref></item>		<item><ref annotationId="ent_27" target="P4">subterm</ref></item>	</list>
+                        <item xml:id="I4"><ref annotationId="ent_46" target="P1">term</ref> 	<list>		<item><ref annotationId="ent_48" target="P1">subterm</ref></item>		<item><ref annotationId="ent_50" target="P2">subterm</ref></item>		<item><ref annotationId="ent_52" target="P4">subterm</ref></item>	</list>
                         </item>  
                         
-                        <!--  To create index cross references  --> 	 	<item xml:id="S1"><ref annotationId="ent_29" target="S1 S2 S3 S4 S5 S7 S8 S9 S10 S11 S12 S13 S15 S16 S18 S22 S23 S25 S26 S29 S30 S31 S32 S33 S34 S35 S37 S38 S39 S40 S41 S43 S44 S46 S48 S50 S52 S53 S54 S55 S56 S57 S59 S63 S64 S65 S66 S67 S68 S69 S70 S71">Circle of Protection🔪⭕️🔪</ref><list>	<head>	 <hi rend="italic">See also</hi> 	</head>	<item><ref annotationId="ent_31" target="S1 S2 S3 S79">Sparkles✨</ref></item>	<item><ref annotationId="ent_33" target="S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78">Crystal Ball🔮</ref></item><item><ref annotationId="ent_35" target="S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82">Smileys😄😏😌</ref></item>	<item><ref annotationId="ent_37" target="S1 S2 S3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S 77 S78 S79 S81">Chiasmus👥</ref></item><item><ref annotationId="ent_39" target="S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82">Smileys</ref></item></list>	</item>	</list>
+                        <!--  To create index cross references  --> 	 	<item xml:id="S1"><ref annotationId="ent_54" target="S1 S2 S3 S4 S5 S7 S8 S9 S10 S11 S12 S13 S15 S16 S18 S22 S23 S25 S26 S29 S30 S31 S32 S33 S34 S35 S37 S38 S39 S40 S41 S43 S44 S46 S48 S50 S52 S53 S54 S55 S56 S57 S59 S63 S64 S65 S66 S67 S68 S69 S70 S71">Circle of Protection🔪⭕️🔪</ref><list>	<head>	 <hi rend="italic">See also</hi> 	</head>	<item><ref annotationId="ent_56" target="S1 S2 S3 S79">Sparkles✨</ref></item>	<item><ref annotationId="ent_58" target="S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78">Crystal Ball🔮</ref></item><item><ref annotationId="ent_60" target="S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82">Smileys😄😏😌</ref></item>	<item><ref annotationId="ent_62" target="S1 S2 S3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S 77 S78 S79 S81">Chiasmus👥</ref></item><item><ref annotationId="ent_64" target="S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82">Smileys</ref></item></list>	</item>	</list>
            </div>
          </body>
     </text>
