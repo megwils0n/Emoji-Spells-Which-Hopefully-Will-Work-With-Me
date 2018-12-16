@@ -10,9 +10,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.355Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.425Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.355Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.425Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S1 S2 s3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S77 S78 S79 S81"}</cw:cwrcAttributes>
@@ -27,16 +27,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_1222"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_1862"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.357Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.426Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.357Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.426Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78"}</cw:cwrcAttributes>
@@ -51,16 +51,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_1224"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_1864"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.360Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.428Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.360Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.428Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S1 S2 S3 S79"}</cw:cwrcAttributes>
@@ -75,16 +75,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_1226"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_1866"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.362Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.431Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.362Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.431Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P1"}</cw:cwrcAttributes>
@@ -99,16 +99,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_1228"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_1868"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.366Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.435Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.366Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.435Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P1"}</cw:cwrcAttributes>
@@ -123,16 +123,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_1230"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_1870"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.371Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.441Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.371Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.441Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P2"}</cw:cwrcAttributes>
@@ -147,16 +147,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_1232"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_1872"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.374Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.443Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.374Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.443Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P4"}</cw:cwrcAttributes>
@@ -171,16 +171,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_1234"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_1874"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.376Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.445Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.376Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.445Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S1 S2 S3 S4 S5 S7 S8 S9 S10 S11 S12 S13 S15 S16 S18 S22 S23 S25 S26 S29 S30 S31 S32 S33 S34 S35 S37 S38 S39 S40 S41 S43 S44 S46 S48 S50 S52 S53 S54 S55 S56 S57 S59 S63 S64 S65 S66 S67 S68 S69 S70 S71"}</cw:cwrcAttributes>
@@ -195,16 +195,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_1236"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_1876"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.378Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.445Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.378Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.445Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S1 S2 S3 S79"}</cw:cwrcAttributes>
@@ -219,16 +219,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_1238"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_1878"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.380Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.446Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.380Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.446Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78"}</cw:cwrcAttributes>
@@ -243,16 +243,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_1240"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_1880"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.382Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.449Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.382Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.449Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82"}</cw:cwrcAttributes>
@@ -267,16 +267,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_1242"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_1882"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.385Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.453Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.385Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.453Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S1 S2 S3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S 77 S78 S79 S81"}</cw:cwrcAttributes>
@@ -291,16 +291,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_1244"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_1884"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.386Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.454Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T06:53:38.386Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-16T07:13:59.454Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82"}</cw:cwrcAttributes>
@@ -315,10 +315,12 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_1246"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_1886"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 </rdf:RDF>
+
+
 
 
 
@@ -531,14 +533,14 @@
             <head>
                 <bibl>
                     <title>Emoji Spells for Seasonal Use</title></bibl></head>
-           <p>To bring strength and energy for the winter months:</p><p xml:id="S1">✨❄️🌲☕️🐻🌙🐻☕️🌲❄️✨</p><p>To find prosperity, peace, and safety in the autumn season:</p><p xml:id="S2">✨🕯💝☕️🍀💚🍁☀️🍁💚🍀☕️💝🕯✨</p><p>To attract good vibes for autumn:</p><p xml:id="S3">✨☕️🍂🔮🍂☕️✨</p><p>To make the most of autumn:</p><p xml:id="S4">🍁🍂☔🙆🎃🎇👻🍎☔🍂🍁</p><p>To will the coming months to be full of growth, productivity, new doors opening, and opportunities:</p><p xml:id="S5">⬆️✏️🎓🏆🌻🏅✨🥂⬆️</p><p>To let go of the pain of the past year and begin anew:</p><p xml:id="S6">😢🎭👎_ _ _ _🔚🔜_ _ _ _👍🎆😃</p>
+           <p>To bring strength and energy for the winter months:</p><p xml:id="S1">✨❄️🌲☕️🐻🌙🐻☕️🌲❄️✨</p><p>To find prosperity, peace, and safety in the autumn season:</p><p xml:id="S2">✨🕯💝☕️🍀💚🍁☀️🍁💚🍀☕️💝🕯✨</p><p>To attract good vibes for autumn:</p><p xml:id="S3">✨☕️🍂🔮🍂☕️✨</p><p>To make the most of autumn:</p><p xml:id="S4">🍁🍂☔🙆🎃🎇👻🍎☔🍂🍁</p><p>To will the coming months to be full of growth, productivity, new doors opening, and opportunities:</p><p xml:id="S5">⬆️✏️🎓🏆🌻🏅✨🥂⬆️</p><p>To let go of the pain of the past year and begin anew:</p><p xml:id="S6">😢🎭👎_ _ _ _🔚🔜_ _ _ _👍🎆😃</p><p>To begin fresh during a full moon:</p><p xml:id="S98">🔮✨⭐️🌕⭐✨🔮</p>
         </div>		<div type="chapter">
             <head>
                 <bibl>
                     <title>Emoji Spells for Self-Improvement</title> <author></author>
                 </bibl>
             </head>
-           <p xml:id="P2">To have a productive day:</p><p xml:id="S7">🐝⏳🔆🎠☕🎠🔆⌛🐝</p>	<p>To have the energy to get something done that you don’t want to do:</p><p xml:id="S8">🔮✨⚡️🔺😓🔺⚡️✨🔮</p><p>To relax your mind:</p><p xml:id="S9">🌤🌱✨🌷🕯🌷✨🌱🌤</p><p>To help wake up in the morning with a good start to your day: </p><p xml:id="S10">🙌🗣👣👁🌞👁👣🗣🙌</p><p>To be happy and not let bad things get in the way: </p><p xml:id="S11">🔮☀️🌷🌈🌻🌈🌷☀️🔮</p><p>To peacefully open and balance your heart and accept the goodness of life with smiles, joy, and relaxation:</p><p xml:id="S12">💓✨🕊✨🍓✨🌶✨😁✨⚖️✨🎁✨💗✨🎁✨⚖️✨😁✨🍓✨🌶✨🕊✨💓</p><p>To remove those who bring negativity, fear, or anger from your life, cutting ties and burning the bridge:</p><p xml:id="S13">🔮🕯✂️🔥🌉🔥✂️🕯🔮</p><p>To break any curse laid upon you, or to block other’s negative thoughts or intentions:</p><p xml:id="S14">❗️⚡♿🚑📉👿😢🔚🔜😃🎉🌅🌿✔️👍✨</p><p>To have the energy and motivation to clean your room:</p><p xml:id="S15">💫😷👌🏻🚪🛌👌🏻😷💫</p><p>To bring good energy:</p><p xml:id="S16">🔮🌙💐🍃✨🍃💐🌙🔮</p><p>To locate a lost item:</p><p xml:id="S17">❓😊🔜🚪🏡📥📂🎉🙌❔</p><p>To feel beautiful:</p><p xml:id="S18">😏💖💋💅💆💄✨👑💞😏</p><p>To encourage healthy eating: </p><p xml:id="S19">😊🍎🍒🍣☕🍲🍈😋</p><p>To let go and forget about the past, and instead focus on the positive present/future:</p><p xml:id="S20">😢💔🚫🔚🔜🎈🎐💕😊</p><p>To let go of past mistakes:</p><p xml:id="S21">🙏🎈🎐🙌💖👍😏</p><p>To bring good luck:</p><p xml:id="S222">🔮🎰🤞🐞🍀🎰🔮</p><p>To bring calm:</p><p xml:id="S23">🌿🛀🕊😌🎐🛌🌿</p><p>To rise out of a tough spot:</p><p xml:id="S24">➖📈🔝🔜🆙️</p><p>To increase motivation:</p><p xml:id="S25">🔮⏳💡⏳🔥⏳💡⏳🔮</p><p>To have the motivation to do household chores:</p><p xml:id="S26">👍✅💨🍛🍴🔨👚👖🏡💨✅👍</p><p>To reduce stress:</p><p xml:id="S27">😠😣👎🚧⚡🔚🔜💲☀️🎨👌😃</p><p>To turn a bad mood into a good one:</p><p xml:id="S28">😒👎🙍📉⚡❗️🔚🔜 ✔️⬆️📈🙌👍😄</p><p>To have a fun and happy day after a bad period or mood:</p><p xml:id="S84">🔮👎💔😟❄️🔚🔜🌞😆💖👌🔮</p><p>To inspire self-love, glamour and beauty:</p><p xml:id="S85">🔮👑💅👸💅👑🔮</p><p>To find lost items:</p><p xml:id="S86">🔮🔎🕵🔍🔮</p><p>To be seen as beautiful:</p><p xml:id="S87">🔮🌺💋🌺💄🌺🔮</p><p>To ensure a good week:</p><p xml:id="S91">🔮🕯🍀👍🍀🕯🔮</p><p>To bring one out of sadness:</p><p xml:id="S92">🔮😭💖💋😄🔮</p>
+           <p xml:id="P2">To have a productive day:</p><p xml:id="S7">🐝⏳🔆🎠☕🎠🔆⌛🐝</p>	<p>To have the energy to get something done that you don’t want to do:</p><p xml:id="S8">🔮✨⚡️🔺😓🔺⚡️✨🔮</p><p>To relax your mind:</p><p xml:id="S9">🌤🌱✨🌷🕯🌷✨🌱🌤</p><p>To help wake up in the morning with a good start to your day: </p><p xml:id="S10">🙌🗣👣👁🌞👁👣🗣🙌</p><p>To be happy and not let bad things get in the way: </p><p xml:id="S11">🔮☀️🌷🌈🌻🌈🌷☀️🔮</p><p>To peacefully open and balance your heart and accept the goodness of life with smiles, joy, and relaxation:</p><p xml:id="S12">💓✨🕊✨🍓✨🌶✨😁✨⚖️✨🎁✨💗✨🎁✨⚖️✨😁✨🍓✨🌶✨🕊✨💓</p><p>To remove those who bring negativity, fear, or anger from your life, cutting ties and burning the bridge:</p><p xml:id="S13">🔮🕯✂️🔥🌉🔥✂️🕯🔮</p><p>To break any curse laid upon you, or to block other’s negative thoughts or intentions:</p><p xml:id="S14">❗️⚡♿🚑📉👿😢🔚🔜😃🎉🌅🌿✔️👍✨</p><p>To have the energy and motivation to clean your room:</p><p xml:id="S15">💫😷👌🏻🚪🛌👌🏻😷💫</p><p>To bring good energy:</p><p xml:id="S16">🔮🌙💐🍃✨🍃💐🌙🔮</p><p>To locate a lost item:</p><p xml:id="S17">❓😊🔜🚪🏡📥📂🎉🙌❔</p><p>To feel beautiful:</p><p xml:id="S18">😏💖💋💅💆💄✨👑💞😏</p><p>To encourage healthy eating: </p><p xml:id="S19">😊🍎🍒🍣☕🍲🍈😋</p><p>To let go and forget about the past, and instead focus on the positive present/future:</p><p xml:id="S20">😢💔🚫🔚🔜🎈🎐💕😊</p><p>To let go of past mistakes:</p><p xml:id="S21">🙏🎈🎐🙌💖👍😏</p><p>To bring good luck:</p><p xml:id="S222">🔮🎰🤞🐞🍀🎰🔮</p><p>To bring calm:</p><p xml:id="S23">🌿🛀🕊😌🎐🛌🌿</p><p>To rise out of a tough spot:</p><p xml:id="S24">➖📈🔝🔜🆙️</p><p>To increase motivation:</p><p xml:id="S25">🔮⏳💡⏳🔥⏳💡⏳🔮</p><p>To have the motivation to do household chores:</p><p xml:id="S26">👍✅💨🍛🍴🔨👚👖🏡💨✅👍</p><p>To reduce stress:</p><p xml:id="S27">😠😣👎🚧⚡🔚🔜💲☀️🎨👌😃</p><p>To turn a bad mood into a good one:</p><p xml:id="S28">😒👎🙍📉⚡❗️🔚🔜 ✔️⬆️📈🙌👍😄</p><p>To have a fun and happy day after a bad period or mood:</p><p xml:id="S84">🔮👎💔😟❄️🔚🔜🌞😆💖👌🔮</p><p>To inspire self-love, glamour and beauty:</p><p xml:id="S85">🔮👑💅👸💅👑🔮</p><p>To find lost items:</p><p xml:id="S86">🔮🔎🕵🔍🔮</p><p>To be seen as beautiful:</p><p xml:id="S87">🔮🌺💋🌺💄🌺🔮</p><p>To ensure a good week:</p><p xml:id="S91">🔮🕯🍀👍🍀🕯🔮</p><p>To bring one out of sadness:</p><p xml:id="S92">🔮😭💖💋😄🔮</p><p>To enourage self-love and glamour:</p><p xml:id="S93">🔮💋💄👑💄💋🔮</p><p>To reduce negative feelings and replace them with positivity:</p><p xml:id="S94">🔮◼️◾️🔳◽️◻️🔮</p><p>To promote self-love:</p><p xml:id="S97">🔮💋💖💋🔮</p><p>To bring hope and inspiration into one's heart:</p><p xml:id="S100">🔮🕯⭐️🕯🔮</p>
         </div><div type="chapter">
             <head>
                 <bibl>
@@ -553,7 +555,7 @@
             <head>
                 <bibl>
                     <title>Emoji Spells for Health &amp; Healing</title></bibl></head>
-           <p xml:id="P1">To improve eye health: </p><p xml:id="S49">🔜👀👓😎📷🔭✅🆗😊</p><p>To aid spiritual healing: </p><p xml:id="S50">🔮🛡⚗🛡🕯✨🌑✨🕯🛡⚗🛡🔮</p><p>To heal from burnout:</p><p xml:id="S51">⭐️✨🌜✨🛌✨🌌✨🛌✨🌛✨⭐️✨</p><p>To release anxiety's rule:</p><p xml:id="S52">🌌✌💪💗🔪🚫👑😥👑🚫🔪💗💪✌🌌</p><p>To spark creativity:</p><p xml:id="S53">✨️🎨🎼🖊📓💻🎨🎼🖊📓💻⚡✨</p><p>To have excellent physical health: </p><p xml:id="S54">😃👌💆🍎☕🚭🌅✨🐦✔️💪💖😃</p><p>To diminish the symptoms of dissociation and derealisation:</p><p xml:id="S55">😊👍👤💞💆🌅🌿🐦😊</p><p>To decrease paranoia: </p><p xml:id="S56">🔮😱❌🕯😊💙😌💙😊🕯❌😱🔮</p><p>To keep away suicidal thoughts and urges:</p><p xml:id="S57">🔮❤️😌💙🚫❌☠❌🚫💙😌❤️🔮</p><p>To stop dental pain:</p><p xml:id="S58">😭😠👅💊💉🔚 🔜🆓😏👌🎉😄</p><p>To have a restful and healing sleep: </p><p xml:id="S59">😏💤💆🏩✨🌛💤😏</p><p>To ease the physical symptoms of anxiety:</p><p xml:id="S60">😓👎😭⚡🌁🔚🔜🌅🐦🛀☕👍😄</p><p>To ease phonophobia/noise sensitivity: </p><p xml:id="S61">📢🎶🎺📳⚡⛔✋🙉🎧📴😏</p><p>To counter triggers and emotional stress:</p><p xml:id="S62">❕❗️💣💥🚧⁉️⚡⛔⛅☀️💆🐦👌😃</p><p>To help ease depression:</p><p xml:id="S63">😊💊💞⛅🆙⛅💞💊😊</p><p>To encourage pleasant dreams and restful sleep:</p><p xml:id="S64">💤🏩🌠🌛🌠🏩💤</p><p>To ease physical pain:</p><p xml:id="S65">⬇️⬇️⏬💊👇😄🆗😄👇💊⏬⬇️⬇️</p>
+           <p xml:id="P1">To improve eye health: </p><p xml:id="S49">🔜👀👓😎📷🔭✅🆗😊</p><p>To aid spiritual healing: </p><p xml:id="S50">🔮🛡⚗🛡🕯✨🌑✨🕯🛡⚗🛡🔮</p><p>To heal from burnout:</p><p xml:id="S51">⭐️✨🌜✨🛌✨🌌✨🛌✨🌛✨⭐️✨</p><p>To release anxiety's rule:</p><p xml:id="S52">🌌✌💪💗🔪🚫👑😥👑🚫🔪💗💪✌🌌</p><p>To spark creativity:</p><p xml:id="S53">✨️🎨🎼🖊📓💻🎨🎼🖊📓💻⚡✨</p><p>To have excellent physical health: </p><p xml:id="S54">😃👌💆🍎☕🚭🌅✨🐦✔️💪💖😃</p><p>To diminish the symptoms of dissociation and derealisation:</p><p xml:id="S55">😊👍👤💞💆🌅🌿🐦😊</p><p>To decrease paranoia: </p><p xml:id="S56">🔮😱❌🕯😊💙😌💙😊🕯❌😱🔮</p><p>To keep away suicidal thoughts and urges:</p><p xml:id="S57">🔮❤️😌💙🚫❌☠❌🚫💙😌❤️🔮</p><p>To stop dental pain:</p><p xml:id="S58">😭😠👅💊💉🔚 🔜🆓😏👌🎉😄</p><p>To have a restful and healing sleep: </p><p xml:id="S59">😏💤💆🏩✨🌛💤😏</p><p>To ease the physical symptoms of anxiety:</p><p xml:id="S60">😓👎😭⚡🌁🔚🔜🌅🐦🛀☕👍😄</p><p>To ease phonophobia/noise sensitivity: </p><p xml:id="S61">📢🎶🎺📳⚡⛔✋🙉🎧📴😏</p><p>To counter triggers and emotional stress:</p><p xml:id="S62">❕❗️💣💥🚧⁉️⚡⛔⛅☀️💆🐦👌😃</p><p>To help ease depression:</p><p xml:id="S63">😊💊💞⛅🆙⛅💞💊😊</p><p>To encourage pleasant dreams and restful sleep:</p><p xml:id="S64">💤🏩🌠🌛🌠🏩💤</p><p>To ease physical pain:</p><p xml:id="S65">⬇️⬇️⏬💊👇😄🆗😄👇💊⏬⬇️⬇️</p><p>To help one fall asleep:</p><p xml:id="S95">🔮💤😴💤🔮</p>
         </div><div type="chapter">
             <head>
                 <bibl>
@@ -568,20 +570,20 @@
             <head>
                 <bibl>
                     <title>Emoji Spells for Love &amp; Friendship</title></bibl></head>
-           <p xml:id="P1">To make social interactions easier:</p><p xml:id="S80">😏👍💁👄🎤🍻✨👌😏</p><p>To promote happiness and fruitful relationships, romantic, platonic, or otherwise:</p><p xml:id="S81">🔮🎀⭐️🌸⭐️🎀🔮</p><p>To make meaningful friendships easily:</p><p xml:id="S82">😄💞🍻🔜👩👨👏💞😄</p>
+           <p xml:id="P1">To make social interactions easier:</p><p xml:id="S80">😏👍💁👄🎤🍻✨👌😏</p><p>To promote happiness and fruitful relationships, romantic, platonic, or otherwise:</p><p xml:id="S81">🔮🎀⭐️🌸⭐️🎀🔮</p><p>To make meaningful friendships easily:</p><p xml:id="S82">😄💞🍻🔜👩👨👏💞😄</p><p>To call a spirit for spirit communication:</p><p xml:id="S96">🔮🕯💀📞💀🕯🔮</p><p>To stop someone from talking to you:</p><p xml:id="S99">🔮🗣🔊🔉🔇🤐🔮</p>
         </div>
         <!--   -->
         <div type="index">
                 <list>
-                        <item xml:id="I1"><ref annotationId="ent_1222" target="S1 S2 s3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S77 S78 S79 S81">Circle of Protection</ref></item>
-                        <item xml:id="I2"><ref annotationId="ent_1224" target="S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78">Circle of Protection: Crystal Ball</ref></item>
-                        <item xml:id="I3"><ref annotationId="ent_1226" target="S1 S2 S3 S79">Circle of Protection: Glitter</ref></item>  
+                        <item xml:id="I1"><ref annotationId="ent_1862" target="S1 S2 s3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S77 S78 S79 S81">Circle of Protection</ref></item>
+                        <item xml:id="I2"><ref annotationId="ent_1864" target="S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78">Circle of Protection: Crystal Ball</ref></item>
+                        <item xml:id="I3"><ref annotationId="ent_1866" target="S1 S2 S3 S79">Circle of Protection: Glitter</ref></item>  
                         
                         <!--  To create a subsection of terms  -->
-                        <item xml:id="I4"><ref annotationId="ent_1228" target="P1">term</ref> 	<list>		<item><ref annotationId="ent_1230" target="P1">subterm</ref></item>		<item><ref annotationId="ent_1232" target="P2">subterm</ref></item>		<item><ref annotationId="ent_1234" target="P4">subterm</ref></item>	</list>
+                        <item xml:id="I4"><ref annotationId="ent_1868" target="P1">term</ref> 	<list>		<item><ref annotationId="ent_1870" target="P1">subterm</ref></item>		<item><ref annotationId="ent_1872" target="P2">subterm</ref></item>		<item><ref annotationId="ent_1874" target="P4">subterm</ref></item>	</list>
                         </item>  
                         
-                        <!--  To create index cross references  --> 	 	<item xml:id="S1"><ref annotationId="ent_1236" target="S1 S2 S3 S4 S5 S7 S8 S9 S10 S11 S12 S13 S15 S16 S18 S22 S23 S25 S26 S29 S30 S31 S32 S33 S34 S35 S37 S38 S39 S40 S41 S43 S44 S46 S48 S50 S52 S53 S54 S55 S56 S57 S59 S63 S64 S65 S66 S67 S68 S69 S70 S71">Circle of Protection🔪⭕️🔪</ref><list>	<head>	 <hi rend="italic">See also</hi> 	</head>	<item><ref annotationId="ent_1238" target="S1 S2 S3 S79">Sparkles✨</ref></item>	<item><ref annotationId="ent_1240" target="S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78">Crystal Ball🔮</ref></item><item><ref annotationId="ent_1242" target="S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82">Smileys😄😏😌</ref></item>	<item><ref annotationId="ent_1244" target="S1 S2 S3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S 77 S78 S79 S81">Chiasmus👥</ref></item><item><ref annotationId="ent_1246" target="S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82">Smileys</ref></item></list>	</item>	</list>
+                        <!--  To create index cross references  --> 	 	<item xml:id="S1"><ref annotationId="ent_1876" target="S1 S2 S3 S4 S5 S7 S8 S9 S10 S11 S12 S13 S15 S16 S18 S22 S23 S25 S26 S29 S30 S31 S32 S33 S34 S35 S37 S38 S39 S40 S41 S43 S44 S46 S48 S50 S52 S53 S54 S55 S56 S57 S59 S63 S64 S65 S66 S67 S68 S69 S70 S71">Circle of Protection🔪⭕️🔪</ref><list>	<head>	 <hi rend="italic">See also</hi> 	</head>	<item><ref annotationId="ent_1878" target="S1 S2 S3 S79">Sparkles✨</ref></item>	<item><ref annotationId="ent_1880" target="S8 S11 S13 S16 S22 S25 S32 S34 S35 S37 S38 S40 S41 S50 S56 S57 S75 S78">Crystal Ball🔮</ref></item><item><ref annotationId="ent_1882" target="S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82">Smileys😄😏😌</ref></item>	<item><ref annotationId="ent_1884" target="S1 S2 S3 S7 S8 S9 S10 S11 S13 S15 S16 S25 S31 S32 S39 S41 S46 S50 S51 S52 S56 S57 S63 S64 S65 S66 S74 S76 S 77 S78 S79 S81">Chiasmus👥</ref></item><item><ref annotationId="ent_1886" target="S18 S44 S48 S54 S55 S59 S63 S67 S68 S69 S71 S80 S82">Smileys</ref></item></list>	</item>	</list>
            </div>
          </body>
     </text>
